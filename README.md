@@ -1,10 +1,12 @@
+
 # semaine-2
 https://www.codecademy.com/fr/users/mastadim/achievements
 https://www.codecademy.com/fr/mastadim
 
 <!doctype html>
 <head>
-<title>Mon CV</title></head>
+<title>Mon CV</title>
+</head>
 <body>
 <header>
         <h1>NIRENNOLD Dimitry</h1>
